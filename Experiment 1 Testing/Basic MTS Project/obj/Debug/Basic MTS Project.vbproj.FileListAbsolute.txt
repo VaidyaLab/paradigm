@@ -1,0 +1,52 @@
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\bin\Debug\Basic MTS Project.exe.config
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\bin\Debug\Basic MTS Project.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\bin\Debug\Basic MTS Project.pdb
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\bin\Debug\Basic MTS Project.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic_MTS_Project.Feedback.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic_MTS_Project.GlobalVariables.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic_MTS_Project.Sample.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic_MTS_Project.Comparison.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic_MTS_Project.Resources.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic MTS Project.vbproj.GenerateResource.Cache
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic MTS Project.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic MTS Project.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Basic MTS Project\Basic MTS Project\obj\Debug\Basic MTS Project.pdb
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\bin\Debug\FTMTS.exe.config
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\bin\Debug\FTMTS.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\bin\Debug\FTMTS.pdb
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\bin\Debug\FTMTS.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Feedback.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.GlobalVariables.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Sample.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Comparison.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Resources.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\Basic MTS Project.vbproj.GenerateResource.Cache
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FTMTS.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FTMTS.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\FTMTS\Basic MTS Project\obj\Debug\FTMTS.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\bin\Debug\FTMTS.exe.config
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FTMTS.exe
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FTMTS.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FTMTS.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\bin\Debug\FTMTS.exe
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\bin\Debug\FTMTS.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\bin\Debug\FTMTS.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Feedback.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.GlobalVariables.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Sample.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Comparison.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\FT_MTS.Resources.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\FTMTS\Basic MTS Project\obj\Debug\Basic MTS Project.vbproj.GenerateResource.Cache
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\bin\Debug\FTMTS.exe.config
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FTMTS.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FTMTS.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FT_MTS.Feedback.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FT_MTS.GlobalVariables.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FT_MTS.Sample.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FT_MTS.Comparison.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FT_MTS.Resources.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\Basic MTS Project.vbproj.GenerateResource.Cache
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\bin\Debug\FTMTS.exe
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\bin\Debug\FTMTS.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\bin\Debug\FTMTS.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 1 Testing\Basic MTS Project\obj\Debug\FTMTS.exe
