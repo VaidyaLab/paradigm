@@ -1,0 +1,112 @@
+        ' Initialize the random-number generator.
+        Randomize()
+        ' Generate random value between 1 and 6. 
+        GlobalVariables.randomnumber = CInt(Int((6 * Rnd()) + 1))
+
+        'Choose Image
+        Select Case GlobalVariables.randomnumber
+            Case 1
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A1
+            Case 2
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A2
+            Case 3
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A3
+            Case 4
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A4
+            Case 5
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A5
+            Case 6
+                Me.PictureBox1.Image = Global.Basic_MTS_Project.My.Resources.Resources.A6
+        End Select
+
+
+        Select Case GlobalVariables.randomnumber
+            Case 1 To 3
+                Select Case GlobalVariables.randomtwo
+                    Case 1
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        GlobalVariables.CompOne = 1
+                        GlobalVariables.CompTwo = 2
+                        GlobalVariables.CompThree = 3
+                    Case 2
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        GlobalVariables.CompOne = 1
+                        GlobalVariables.CompTwo = 3
+                        GlobalVariables.CompThree = 2
+                    Case 3
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        GlobalVariables.CompOne = 2
+                        GlobalVariables.CompTwo = 1
+                        GlobalVariables.CompThree = 3
+                    Case 4
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        GlobalVariables.CompOne = 2
+                        GlobalVariables.CompTwo = 3
+                        GlobalVariables.CompThree = 1
+                    Case 5
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        GlobalVariables.CompOne = 3
+                        GlobalVariables.CompTwo = 1
+                        GlobalVariables.CompThree = 2
+                    Case 6
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        GlobalVariables.CompOne = 3
+                        GlobalVariables.CompTwo = 2
+                        GlobalVariables.CompThree = 1
+                End Select
+            Case 4 To 6
+		    Case 1
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B4
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B5
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B6
+                        GlobalVariables.CompOne = 4
+                        GlobalVariables.CompTwo = 5
+                        GlobalVariables.CompThree = 6
+                    Case 2
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        GlobalVariables.CompOne = 1
+                        GlobalVariables.CompTwo = 3
+                        GlobalVariables.CompThree = 2
+                    Case 3
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        GlobalVariables.CompOne = 2
+                        GlobalVariables.CompTwo = 1
+                        GlobalVariables.CompThree = 3
+                    Case 4
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        GlobalVariables.CompOne = 2
+                        GlobalVariables.CompTwo = 3
+                        GlobalVariables.CompThree = 1
+                    Case 5
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        GlobalVariables.CompOne = 3
+                        GlobalVariables.CompTwo = 1
+                        GlobalVariables.CompThree = 2
+                    Case 6
+                        Me.PictureBox2.Image = Global.Basic_MTS_Project.My.Resources.Resources.B3
+                        Me.PictureBox3.Image = Global.Basic_MTS_Project.My.Resources.Resources.B2
+                        Me.PictureBox4.Image = Global.Basic_MTS_Project.My.Resources.Resources.B1
+                        GlobalVariables.CompOne = 3
+                        GlobalVariables.CompTwo = 2
+                        GlobalVariables.CompThree = 1
+        End Select
