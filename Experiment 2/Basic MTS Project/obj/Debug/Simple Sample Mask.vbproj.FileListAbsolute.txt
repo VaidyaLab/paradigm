@@ -1,0 +1,30 @@
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Simple Sample Mask.vbproj.GenerateResource.Cache
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.exe.config
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.pdb
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Feedback.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.GlobalVariables.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Sample.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Comparison.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Resources.resources
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.exe
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.xml
+C:\Users\Flying Beerman\Documents\Visual Studio 2013\Projects\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.exe.config
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.exe
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment 2.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.exe
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.pdb
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\bin\Debug\Experiment 2.xml
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Comparison2.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Feedback.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Introduction.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.GlobalVariables.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Sample.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Comparison.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Resources.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Sample2.resources
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Simple Sample Mask.vbproj.GenerateResource.Cache
+C:\Users\VAIDYALAB\Desktop\Experiments for Dave Condon\Experiment 2\Basic MTS Project\obj\Debug\Experiment_2.Feedback2.resources
